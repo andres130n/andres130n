@@ -29,8 +29,7 @@
 ### 📫 Contacto
 
 - ✉️ **andres.leon@ejemplo.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/andresleon-dev)  
-- 🌐 [Portafolio Web](https://andres130n.github.io) (si tienes uno)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andres-leon-712557125/)  
 
 ---
 
