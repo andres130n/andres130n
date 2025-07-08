@@ -28,7 +28,7 @@
 
 ### 📫 Contacto
 
-- ✉️ **andres.leon@ejemplo.com**  
+- ✉️ **andres130n@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andres-leon-712557125/)  
 
 ---
